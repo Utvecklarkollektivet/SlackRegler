@@ -1,13 +1,26 @@
-# SlackRegler
+# Regler för utvecklarkollektivet
+## och ev. påföljder om man bryter dem
 
-## Ingen Rasism
-Det är ej tillåtet att uppföra sig på ett rasistiskt eller främlingsfientligt sätt i Utvecklarkollektivet.
+1. Bryt inte mot svensk lagstiftning
+2. Använd sunt förnuft, använd den gyllene regeln "behandla andra som du själv vill bli behandlad"
 
-## Inget Pornografiskt
-Pornografiskt innehåll hör ej hemma i Utvecklarkollektivet. Tänk på att många samtalar i Utvecklarkollektivet under arbetstid. Om någon form av barnpornografiskt innehåll skulle förekomma kommer detta att polisanmälas omedelbart.
+Om man bryter dessa simpla regler riskerar man:
 
-## Inga Påhopp
-Försök verka för en positiv, uppmuntrande och inkluderande atmosfär. Påhopp och hot är ej tillåtet.
+1. TIllsägelse, sluta göra x eller y. Inget allvarligt, men tänk på detta i framtiden.
+2. Varning 1, sluta göra x eller y. Du får en tips på hur du ska hantera situationen annorlunda i framtiden.
+3. Varning 2, sluta göra x eller y, du får en förklaring på varför.
+4. Avstängning från Utvecklarkollektivet
 
-## Inget brottsligt
-Det är ej tillåtet att bryta mot Svensk lag eller att uppmuntra brott mot Svensk lag.
+Vanligtvis i den ordningen, men vid extra grova fall där användaren t.ex. bryter grovt mot svensk lagstiftning kan vi hoppa ett eller fler steg. ** VARJE FALL BEDÖMS SOM UNIKT **.
+
+Om du hittar inlägg som du anser bryter mot Utvecklarkollektivets regler kan du skriva till en administratör, dessa är:
+
+Markus Stenqvist
+Daniel Hååg
+Filip Jansson
+Robert Säll
+Christoffer Artmann
+Joakim Ingman (inaktiv?)
+Victor Bjelkholm (inaktiv?)
+Zacharias Berggren
+Albin Ferm (inaktiv)
