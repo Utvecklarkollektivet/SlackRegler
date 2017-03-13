@@ -1,5 +1,5 @@
 # Regler för utvecklarkollektivet
-## och ev. påföljder om man bryter dem
+### och ev. påföljder om man bryter dem
 
 1. Bryt inte mot svensk lagstiftning
 2. Använd sunt förnuft, använd den gyllene regeln "behandla andra som du själv vill bli behandlad"
