@@ -11,7 +11,7 @@ Om man bryter dessa simpla regler riskerar man:
 3. Varning 2, sluta göra x eller y, du får en förklaring på varför.
 4. Avstängning från Utvecklarkollektivet
 
-Vanligtvis i den ordningen, men vid extra grova fall där användaren t.ex. bryter grovt mot svensk lagstiftning kan vi hoppa ett eller fler steg. ** VARJE FALL BEDÖMS SOM UNIKT **.
+Vanligtvis i den ordningen, men vid extra grova fall där användaren t.ex. bryter grovt mot svensk lagstiftning kan vi hoppa ett eller fler steg. **VARJE FALL BEDÖMS SOM UNIKT**.
 
 Om du hittar inlägg som du anser bryter mot Utvecklarkollektivets regler kan du skriva till en administratör, dessa är:
 
