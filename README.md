@@ -7,7 +7,7 @@
 Om man bryter dessa simpla regler riskerar man:
 
 1. TIllsägelse, sluta göra x eller y. Inget allvarligt, men tänk på detta i framtiden.
-2. Varning 1, sluta göra x eller y. Du får en tips på hur du ska hantera situationen annorlunda i framtiden.
+2. Varning 1, sluta göra x eller y. Du får tips på hur du ska hantera situationen annorlunda i framtiden.
 3. Varning 2, sluta göra x eller y, du får en förklaring på varför.
 4. Avstängning från Utvecklarkollektivet
 
