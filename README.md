@@ -15,8 +15,8 @@ Vanligtvis i den ordningen, men vid extra grova fall där användaren t.ex. bryt
 
 Om du hittar inlägg som du anser bryter mot Utvecklarkollektivets regler kan du skriva till en administratör, dessa är:
 
-- Markus Stenqvist (@markus)
 - Daniel Hååg (@daniel)
+- Markus Stenqvist (@markus)
 - Filip Jansson (@filip)
 - Robert Säll (@robert)
 - Christoffer Artmann (@artmann)
