@@ -15,12 +15,12 @@ Vanligtvis i den ordningen, men vid extra grova fall där användaren t.ex. bryt
 
 Om du hittar inlägg som du anser bryter mot Utvecklarkollektivets regler kan du skriva till en administratör, dessa är:
 
-Markus Stenqvist
-Daniel Hååg
-Filip Jansson
-Robert Säll
-Christoffer Artmann
-Joakim Ingman (inaktiv?)
-Victor Bjelkholm (inaktiv?)
-Zacharias Berggren
-Albin Ferm (inaktiv)
+- Markus Stenqvist (@markus)
+- Daniel Hååg (@daniel)
+- Filip Jansson (@filip)
+- Robert Säll (@robert)
+- Christoffer Artmann (@artmann)
+- Joakim Ingman (inaktiv?) 
+- Victor Bjelkholm (inaktiv?)
+- Zacharias Berggren (@zache)
+- Albin Ferm (inaktiv)
