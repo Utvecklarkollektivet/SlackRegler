@@ -24,3 +24,4 @@ Om du hittar inlägg som du anser bryter mot Utvecklarkollektivets regler kan du
 - Victor Bjelkholm (inaktiv?)
 - Zacharias Berggren (@zache)
 - Albin Ferm (inaktiv)
+- Christoffer Rydberg
