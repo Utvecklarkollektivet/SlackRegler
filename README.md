@@ -16,12 +16,12 @@ Vanligtvis i den ordningen, men vid extra grova fall där användaren t.ex. bryt
 Om du hittar inlägg som du anser bryter mot Utvecklarkollektivets regler kan du skriva till en administratör, dessa är:
 
 - Daniel Hååg (@daniel)
-- Markus Stenqvist (@markus)
+- Markus Stenqvist (@m)
+- Marcus Ekwall (@mekwall)
 - Filip Jansson (@filip)
 - Robert Säll (@robert)
 - Christoffer Artmann (@artmann)
-- Joakim Ingman (inaktiv?) 
-- Victor Bjelkholm (inaktiv?)
+- Joakim Ingman (@joakimingman) 
 - Zacharias Berggren (@zache)
-- Albin Ferm (inaktiv)
-- Christoffer Rydberg
+- Christoffer Rydberg (@eukaryoter)
+- Markus Thiel (@Markus Thiel)
